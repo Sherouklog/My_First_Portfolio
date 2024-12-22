@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Add custom styles here */
+
+/* Example: Styling for the main container */
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Example: Styling for a header */
+header {
+    background: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+}
